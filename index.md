@@ -8,11 +8,8 @@ title: Resume
 Computer Science Undergraduate<br>
 from Nanyang Technological University Singapore
 
-<div id="contacts">
-    +65 8313 6358 | chuashanhong2000@gmail.com
-</div>
-
 <div id="webaddress">
+    +65 8313 6358 | chuashanhong2000@gmail.com |
     <a href="https://www.linkedin.com/in/chuashanhong/"
         onclick="getOutboundLink('Resume'); return true;"
         target="_blank">
