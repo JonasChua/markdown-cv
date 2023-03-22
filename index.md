@@ -28,10 +28,6 @@ from Nanyang Technological University Singapore
 - Bachelor of Engineering in Computer Science
 - Cumulative Grade Point Average 4.63/5.00
 
-## Experience
-
-
-
 ## Projects
 
 **SC1015 Introduction to Data Science and Artificial Intelligence**
