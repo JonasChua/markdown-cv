@@ -22,9 +22,8 @@ from Nanyang Technological University Singapore
 
 ## Education
 
-
 **Nanyang Technological University Singapore**
-`2022 - now`
+`Aug 2022 - now`
 
 - Bachelor of Engineering in Computer Science
 - Cumulative Grade Point Average 4.63/5.00
@@ -35,10 +34,12 @@ from Nanyang Technological University Singapore
 
 ## Projects
 
-
+**SC1015 Introduction to Data Science and Artificial Intelligence**
+'Feb 2023 - Apr 2023'
+- Created a model to predict quality of wine based on its attributes
 
 ## Technical Skills
 
 **Languages:** Python, C, Java
 
-**Tools:** Visual Studio Code, PyCharm, Eclipse
+**Tools:    ** Visual Studio Code, PyCharm, Eclipse
