@@ -1,21 +1,27 @@
 ---
 layout: cv
-title: Chua Shan Hong's CV
+title: Resume
 ---
 
 # Chua Shan Hong
-
-Computer Science Undergraduate
-
+<br>
+Computer Science Undergraduate<br>
 from Nanyang Technological University Singapore
 
-<div id="webaddress">
-  +65 8313 6358
-  | <a href="chuashanhong2000@gmail.com">chuashanhong2000@gmail.com</a>
-  | <a href="https://www.linkedin.com/in/chuashanhong/">LinkedIn</a>
-  | <a href="https://github.com/JonasChua">GitHub</a>
+<div id="contacts">
+    +65 8313 6358 | chuashanhong2000@gmail.com
 </div>
 
+<div id="webaddress">
+    <a href="https://www.linkedin.com/in/chuashanhong/"
+        onclick="getOutboundLink('Resume'); return true;"
+        target="_blank">
+    LinkedIn</a> |
+    <a href="https://github.com/JonasChua"
+        onclick="getOutboundLink('Resume'); return true;"
+        target="_blank">
+    GitHub</a>
+</div>
 
 ## Education
 
@@ -23,9 +29,8 @@ from Nanyang Technological University Singapore
 **Nanyang Technological University Singapore**
 `2022 - now`
 
-Bachelor of Engineering in Computer Science
-
-Cumulative Grade Point Average 4.63/5.00
+- Bachelor of Engineering in Computer Science
+- Cumulative Grade Point Average 4.63/5.00
 
 ## Experience
 
