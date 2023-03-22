@@ -35,7 +35,7 @@ from Nanyang Technological University Singapore
 ## Projects
 
 **SC1015 Introduction to Data Science and Artificial Intelligence**
-'Feb 2023 - Apr 2023'
+`Feb 2023 - Apr 2023`
 - Created a model to predict quality of wine based on its attributes
 
 ## Technical Skills
