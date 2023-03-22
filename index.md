@@ -42,4 +42,4 @@ from Nanyang Technological University Singapore
 
 **Languages:** Python, C, Java
 
-<strong>Tools:&emsp<strong> Visual Studio Code, PyCharm, Eclipse
+<strong>Tools:&emsp</strong> Visual Studio Code, PyCharm, Eclipse
