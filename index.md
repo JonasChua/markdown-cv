@@ -19,8 +19,9 @@ from Nanyang Technological University Singapore
 
 ## Education
 
-`2022 - now`
+
 **Nanyang Technological University Singapore**
+`2022 - now`
 
 Bachelor of Engineering in Computer Science
 
