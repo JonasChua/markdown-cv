@@ -162,7 +162,7 @@ a:hover {
 	color:#39f
 }
 
-#webaddress {
+#webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
