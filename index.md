@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Chua Shan Hong
+title: Resume
 ---
 
 # Chua Shan Hong
@@ -13,11 +13,11 @@ from Nanyang Technological University Singapore
     <a href="https://www.linkedin.com/in/chuashanhong/"
         onclick="getOutboundLink('Resume'); return true;"
         target="_blank">
-    LinkedIn</a> |
+    www.linkedin.com/in/chuashanhong</a> |
     <a href="https://github.com/JonasChua"
         onclick="getOutboundLink('Resume'); return true;"
         target="_blank">
-    GitHub</a>
+    github.com/JonasChua</a>
 </div>
 
 ## Education
@@ -28,7 +28,7 @@ from Nanyang Technological University Singapore
 - Bachelor of Engineering in Computer Science
 - Cumulative Grade Point Average 4.63/5.00
 
-## Projects
+## Academic Projects
 
 **SC1015 Introduction to Data Science and Artificial Intelligence**
 `Feb 2023 - Apr 2023`
