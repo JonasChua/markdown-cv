@@ -1,6 +1,6 @@
 ---
-layout: Chua Shan Hong
-title: Resume
+layout: Resume
+title: Chua Shan Hong
 ---
 
 # Chua Shan Hong
