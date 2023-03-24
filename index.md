@@ -1,5 +1,5 @@
 ---
-layout: Resume
+layout: cv
 title: Chua Shan Hong
 ---
 
