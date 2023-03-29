@@ -9,7 +9,7 @@ Computer Science Undergraduate<br>
 from Nanyang Technological University Singapore
 
 <div id="webaddress">
-    +65 8313 6358 | chuashanhong2000@gmail.com
+<!--     +65 8313 6358 | chuashanhong2000@gmail.com -->
     <br>
     <a href="https://www.linkedin.com/in/chuashanhong/"
         onclick="getOutboundLink('Resume'); return true;"
