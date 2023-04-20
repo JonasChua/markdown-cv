@@ -9,7 +9,7 @@ Computer Science Undergraduate<br>
 from Nanyang Technological University Singapore
 
 <div id="webaddress">
-<!--     +65 8313 6358 | chuashanhong2000@gmail.com -->
+    +65 8313 6358 | chuashanhong2000@gmail.com
     <br>
     <a href="https://www.linkedin.com/in/chuashanhong/"
         onclick="getOutboundLink('Resume'); return true;"
@@ -33,7 +33,12 @@ from Nanyang Technological University Singapore
 
 **SC1015 Introduction to Data Science and Artificial Intelligence**
 `Feb 2023 - Apr 2023`
-- Created a model to predict quality of wine based on its attributes
+- Created a model to predict quality of wine based on its attributes with 87% accuracy
+
+## Soft Skills
+- Quick Learner
+- Problem-Solving
+- Time Management
 
 ## Technical Skills
 
