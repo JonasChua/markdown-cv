@@ -36,6 +36,7 @@ from Nanyang Technological University Singapore
 - Created a model to predict quality of wine based on its attributes with 87% accuracy
 
 ## Soft Skills
+
 - Quick Learner
 - Problem-Solving
 - Time Management
