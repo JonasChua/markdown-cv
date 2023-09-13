@@ -14,7 +14,7 @@ from Nanyang Technological University Singapore
     <a href="https://www.linkedin.com/in/chuashanhong/"
         onclick="getOutboundLink('Resume'); return true;"
         target="_blank">
-    www.linkedin.com/in/chuashanhong</a> |
+    linkedin.com/in/chuashanhong</a> |
     <a href="https://github.com/JonasChua"
         onclick="getOutboundLink('Resume'); return true;"
         target="_blank">
@@ -27,7 +27,7 @@ from Nanyang Technological University Singapore
 `Aug 2022 - now`
 
 - Bachelor of Engineering in Computer Science
-- Cumulative Grade Point Average 4.63/5.00
+- Cumulative Grade Point Average 4.60/5.00
 
 ## Academic Projects
 
