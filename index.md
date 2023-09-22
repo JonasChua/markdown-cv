@@ -39,14 +39,35 @@ from Nanyang Technological University Singapore
 `Aug 2023 - Now`
 - In the process of developing a webapp for commuters to receive updates of MRT stations' statuses
 
+## Extracurricular Activities
+
+**Member of School of Computer Sciecne and Engineering Club Welfare Committee**
+`Oct 2022 - Apr 2023`
+- Assisted in the distribution of welfare packs near the final exams weeks to support fellow students on their upcoming exams
+
+## Work Experience
+
+**Part-Time Restaurant Service Crew**
+`2018 - 2020`
+- Worked as a team to provide an exellent dining experience for our customers even during peak hours
+- Suggested processes that could help the team to improve our workflow
+
 ## Soft Skills
 
+**Personal Traits**
 - Quick Learner
 - Problem-Solving
 - Time Management
 
+**Languages**
+- English (Proficient)
+- Mandrin (Proficient)
+- Japanese (Beginner)
+
 ## Technical Skills
 
-**Languages:** Python, C, Java
+**Languages**
+- Python, C, Java
 
-**Tools:** PyCharm, Visual Studio Code, Eclipse
+**Tools:**
+- PyCharm, Visual Studio Code, Eclipse
