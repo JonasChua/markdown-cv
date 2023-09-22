@@ -35,6 +35,10 @@ from Nanyang Technological University Singapore
 `Feb 2023 - Apr 2023`
 - Created a model to predict quality of wine based on its attributes with 87% accuracy
 
+**SC1015 Software Engineering**
+`Aug 2023 - Now`
+- In the process of developing a webapp for commuters to receive updates of MRT stations' statuses
+
 ## Soft Skills
 
 - Quick Learner
